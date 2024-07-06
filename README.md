@@ -1,4 +1,4 @@
-### 😑 Please be brief because I am in a hurry. 
+### 😑 long time no see
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=htlsmile)
